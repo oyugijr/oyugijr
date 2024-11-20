@@ -1,4 +1,4 @@
-Hi 👋 My name is OYUGI MOURICE
+Hi 👋 I'm OYUGI MOURICE O.
 ==============================
 
 Software Engineer
