@@ -7,7 +7,7 @@ Software Engineer
 * ✉️  You can contact me at [oyugimaurice22@gmail.com](mailto:oyugimaurice22@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 -----------------
-### Skills
+## Tech Stack
 
 
 <p align="left">
@@ -25,3 +25,6 @@ Software Engineer
 <a href="http://www.github.com/oyugijr"><img src="https://github-readme-stats.vercel.app/api?username=oyugijr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oyugijr's GitHub stats" /></a>
 
 <a href="http://www.github.com/oyugijr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oyugijr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+## 💰 Support Me By Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oyugimaurice22@gmail.com) 
