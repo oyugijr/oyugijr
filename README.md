@@ -30,5 +30,5 @@ Software Engineer
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oyugijr&show_icons=true&locale=en&layout=compact" alt="Oyugi" /></p>
 
 
-## 💰 Support
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oyugimaurice22@gmail.com) 
+<!--## 💰 Support
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oyugimaurice22@gmail.com) -->
